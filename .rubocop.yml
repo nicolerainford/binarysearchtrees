@@ -1,1 +1,6 @@
+ AllCops:
+    NewCops: enable
 
+Layout/LineLength:
+ Max: 2
+Extra: { invalid}
